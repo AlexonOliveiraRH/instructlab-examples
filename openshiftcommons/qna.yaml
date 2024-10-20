@@ -3,128 +3,116 @@ domain: organizations
 created_by: AlexonOliveiraRH
 seed_examples:
   - context: |
-      Red Hat OpenShift Commons, or even OpenShift Commons, or simply Commons, is a Red Hat sponsored
-      community that aims to provide a platform where users, partners, customers, and contributors
-      come together to collaborate, learn, share knowledge and work together on any topics related to 
-      OpenShift.
+      Red Hat OpenShift Commons is a community where users, partners, and contributors collaborate,
+      learn, and share on OpenShift topics.
     questions_and_answers:
-      - question: |
-          What is OpenShift Commons?
+      - question: What is OpenShift Commons?
         answer: |
           A Red Hat sponsored community that promotes any topic related to OpenShift.
-      - question: |
-          Who can be part of Commons' community?
+      - question: Who can be part of Commons' community?
         answer: |
           Any users, partners, customers, and contributors.
-      - question: |
-          What are the activities conducted in the Commons' community?
+      - question: What are the activities conducted in the Commons' community?
         answer: |
-          Some of the activites are collaboration, learning, sharing knowledge and working together on topics related to OpenShift.
+          Some of the activities are collaboration, learning, sharing knowledge,
+          and working together on topics related to OpenShift.
   - context: |
       In addition to Virtual Gatherings, since 2016, in-person Gatherings have taken place every year
-      in various regions around the world. They have taken place in North America, Asia,
-      Europe and South America, in countries like United States of America, Buenos Aires, Israel, France,
-      Finland, Spain, Italy and others. Usually, these meetings happen on Tuesday, Wednesday or Fridays. 
+      in various regions around the world. They have taken place in North America, Asia, Europe,
+      and South America, in countries like the United States of America, Buenos Aires, Israel, France,
+      Finland, Spain, Italy, and others. Usually, these meetings happen on Tuesday, Wednesday,
+      or Fridays.
     questions_and_answers:
-      - question: |
-          In which regions have the in-person Gatherins taken place?
+      - question: In which regions have the in-person Gatherings taken place?
         answer: |
-          North America, South America, Asia and Europe.
+          North America, South America, Asia, and Europe.
       - question: Since what year have the Commons' Gatherings taken place?
-        answer: |
-          Since 2016.
+        answer: Since 2016.
       - question: |
           What are some of the countries where Commons' Gatherings events have taken place?
         answer: |
-          United States of America, Buenos Aires, Israel, France, Finland, Spain, Italy and others.
+          United States of America, Buenos Aires, Israel, France, Finland, Spain, Italy, and others.
   - context: |
       The OpenShift Commons Gathering Colocated Alongside KubeCon and CloudNativeCon North America
-      will be held on November 12th live in Salt Lake City, Utah. This Gathering will focus on 
-      talks from and by Cloud Native practitioners with production deployments sharing their use cases,
-      insights into their workloads and lessons learned along the way.
-
-      The event will take place at the hotel Le Méridien Salt Lake City Dowtown, 131 South 300 West,
+      will be held on November 12th live in Salt Lake City, Utah. This Gathering will focus on talks
+      from and by Cloud Native practitioners with production deployments, sharing their use cases,
+      insights into their workloads, and lessons learned along the way.
+      The event will take place at the hotel Le Méridien Salt Lake City Downtown, 131 South 300 West,
       on Tuesday, November 12, 2024, from 8:00 AM to 6:00 PM MST (UTC−07:00). Entry is free.
     questions_and_answers:
       - question: When and where will the next Gathering for OpenShift Commons take place?
         answer: |
           OpenShift Commons Gathering Colocated Alongside KubeCon and CloudNativeCon North America
           will be held on November 12th live in Salt Lake City, Utah.
-      - question: |
-          What location and time will the next OpenShift Commons be held?
+      - question: What location and time will the next OpenShift Commons be held?
         answer: |
-          At the hotel Le Méridien Salt Lake City Dowtown, 131 South 300 West,
-          from 8:00 AM to 6:00 PM MST (UTC−07:00)
-      - question: |
-          What is the focus of the next OpenShift Commons event?
+          At the hotel Le Méridien Salt Lake City Downtown, 131 South 300 West, from 8:00 AM
+          to 6:00 PM MST (UTC−07:00).
+      - question: What is the focus of the next OpenShift Commons event?
         answer: |
-          Talks from and by Cloud Native practitioners with production deployments sharing their
-          use cases, insights into their workloads and lessons learned along the way.
+          Talks from and by Cloud Native practitioners with production deployments,
+          sharing their use cases, insights into their workloads, and lessons learned along the way.
   - context: |
       In the next OpenShift Commons Gathering in Salt Lake City, Utah, the following talk will be given:
       Time: 10:25 AM
-      Title: The Art of the Possible - From Podman AI Lab to OpenShift AI: Simplifying LLM Workflows 
+      Title: The Art of the Possible - From Podman AI Lab to OpenShift AI: Simplifying LLM Workflows
       Abstract: In this session, it will be demonstrated a streamlined method for setting up a home lab
       to develop and test Large Language Models (LLMs) using Podman AI Lab. The process begins with
       deploying and refining LLMs locally on a developer's workstation. Once these models are matured,
-      it will be explained how to transition them seamlessly to OpenShift AI using a local OpenShift
-      cluster setup or even a Sandbox instance. This approach offers a simple yet effective way to
-      experiment with LLMs locally and scale to a production-ready environment.
+      it will be explained how to transition them seamlessly to OpenShift AI using a local OpenShift cluster setup
+      or even a Sandbox instance. This approach offers a simple yet effective way to experiment with LLMs locally
+      and scale to a production-ready environment.
       Speaker: Alexon Ferreira de Oliveira (Red Hat)
-      Speaker's Information: Alexon has been working as a Principal Technical Account Manager at Red Hat
-      since 2018, working in the Services organization focusing on Infrastructure and Management,
-      Integration and Automation, Cloud Computing, Storage Solutions, and recently AI. He is a part of 
-      the TAM Practices LATAM team based in São Paulo, Brazil, where his job is partnering with, 
-      advocating, trust-advising, and supporting customers in their success goals while making use of 
-      the complete portfolio. He also contributes to produce and enhance documentation, knowledge-base 
-      articles, blog posts, presentations, webinars, and workshops. He is a member of numerous 
-      communities, like Red Hat Academy, Red Hat Accelerators, OpenInfra Foundation and others. He has 
-      also spoken on different topics at various international events and conferences, such as 
-      Red Hat Tech Exchange, Red Hat One, OpenInfra Summit and DevConf.cz. 
-      When he is not at work, he enjoys spending quality time with his family (wife, children, and cat) 
-      and participating in several volunteer jobs.
+      Speaker's Information: |
+        Alexon has been working as a Principal Technical Account Manager at Red Hat since 2018,
+        working in the Services organization focusing on Infrastructure and Management, Integration and Automation,
+        Cloud Computing, Storage Solutions, and recently AI. He is a part of the TAM Practices LATAM
+        team based in São Paulo, Brazil, where his job is partnering with, advocating, trust-advising,
+        and supporting customers in their success goals while making use of the complete portfolio.
+        He also contributes to produce and enhance documentation, knowledge-base articles, blog posts,
+        presentations, webinars, and workshops. He is a member of numerous communities, like Red Hat Academy,
+        Red Hat Accelerators, OpenInfra Foundation, and others. He has also spoken on different topics at various
+        international events and conferences, such as Red Hat Tech Exchange/One, OpenInfra Summit, and DevConf.cz.
+        When he is not at work, he enjoys spending quality time with his family (wife, children, and cat)
+        and participating in several volunteer jobs.
     questions_and_answers:
       - question: Will there be any Podman AI talks at the next OpenShift Commons Gathering?
         answer: |
-          Yes, in the Breakout Room 1, at 10:25 AM, given by Alexon Oliveira, from Red Hat, 
-          with the title "From Podman AI Lab to OpenShift AI: Simplifying LLM Workflows".
-      - question: |
-          What will Alexon's Podman AI and OpenShift talk at the Commons Gathering be about?
+          Yes, in the Breakout Room 1, at 10:25 AM, given by Alexon Oliveira, from Red Hat, with the title
+          "From Podman AI Lab to OpenShift AI: Simplifying LLM Workflows."
+      - question: What will Alexon's Podman AI and OpenShift talk at the Commons Gathering be about?
         answer: |
-          It is a simple and brief demonstration of how to train and mature an LLM locally with 
-          InstructLab, test with Podman AI Lab, and then migrate the workload to OpenShift AI.
-      - question: |
-          Who is the speaker Alexon Oliveira?
+          It is a simple and brief demonstration of how to train and mature an LLM locally with InstructLab,
+          test with Podman AI Lab, and then migrate the workload to OpenShift AI.
+      - question: Who is the speaker Alexon Oliveira?
         answer: |
-          Alexon Oliveira is a Principal Technical Account Manager (TAM) who has worked at Red Hat 
-          since 2018 with various products, lives in Brazil, collaborates in different communities 
-          and enjoys spending time with his family and volunteering.
+          Alexon Oliveira is a Principal Technical Account Manager (TAM) who has worked at Red Hat since 2018
+          with various products, lives in Brazil, collaborates in different communities, and enjoys spending time
+          with his family and volunteering.
   - context: |
       Some ways to be part and contribute to the OpenShift Commons community are:
-      The official Slack channel is: 
+      The official Slack channel is:
       https://join.slack.com/t/openshiftcommons/shared_invite/zt-2qq1ehecy-KW04rQI_MNgYFnrIutlcIA
-      If you want to join the community, you can use the following URL: 
+      If you want to join the community, you can use the following URL:
       https://commons.openshift.org/virtualgatherings/
-      If you want to join any of the specified SIGs, access the following URL: 
+      If you want to join any of the specified SIGs, access the following URL:
       https://commons.openshift.org/virtualgatherings/
-      If you are interested in joining a Virtual Gathering, review their upcoming Gatherings 
-      in the following URL: https://red.ht/commons-GENERAL-agenda
-      If you are interested in sharing your own insight with the OpenShift Commons, CFPs are Open. 
-      You can submit your talk in the following URL: https://red.ht/commons-general-speaking
+      If you are interested in joining a Virtual Gathering, review their upcoming Gatherings in the following URL:
+      https://red.ht/commons-GENERAL-agenda
+      If you are interested in sharing your own insight with the OpenShift Commons, CFPs are open.
+      You can submit your talk in the following URL:
+      https://red.ht/commons-general-speaking
     questions_and_answers:
-      - question: |
-          What is the communication channel used by the OpenShift Commons community?
+      - question: What is the communication channel used by the OpenShift Commons community?
         answer: |
-          The community uses Slack and you can join it using the following URL:
+          The community uses Slack, and you can join it using the following URL:
           https://join.slack.com/t/openshiftcommons/shared_invite/zt-2qq1ehecy-KW04rQI_MNgYFnrIutlcIA.
           You can also check their meeting's agenda using the following URL:
           https://red.ht/commons-GENERAL-agenda
-      - question: |
-          How can I join the OpenShift Commons' community or to be part of a SIG?
+      - question: How can I join the OpenShift Commons' community or be part of a SIG?
         answer: |
           Through the URL https://commons.openshift.org/virtualgatherings/
-      - question: |
-          How to submit a paper to talk in the next OpenShift Commons' event?
+      - question: How to submit a paper to talk at the next OpenShift Commons' event?
         answer: |
           You can submit a paper when a CFP is open through the following URL:
           https://red.ht/commons-general-speaking
