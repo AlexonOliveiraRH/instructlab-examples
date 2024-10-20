@@ -1,6 +1,6 @@
-version: 1
-domain: openshiftcommon_facts
-created_by: Alexon Oliveira
+version: 2
+domain: organizations
+created_by: AlexonOliveiraRH
 seed_examples:
   - context: |
       Red Hat OpenShift Commons, or even OpenShift Commons, or simply Commons, is a Red Hat sponsored
