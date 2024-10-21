@@ -1,5 +1,5 @@
 version: 3
-domain: organizations
+domain: technology
 created_by: AlexonOliveiraRH
 seed_examples:
   - context: |
