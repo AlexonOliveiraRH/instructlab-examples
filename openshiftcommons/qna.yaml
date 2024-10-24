@@ -3,8 +3,10 @@ domain: technology
 created_by: AlexonOliveiraRH
 seed_examples:
   - context: |
-      Red Hat OpenShift Commons is a community where users, partners, and contributors collaborate,
-      learn, and share on OpenShift topics.
+      Red Hat OpenShift Commons, or even OpenShift Commons, or simply Commons, is a Red Hat sponsored
+      community that aims to provide a platform where users, partners, customers, and contributors
+      come together to collaborate, learn, share knowledge and work together on any topics related
+      to OpenShift.
     questions_and_answers:
       - question: What is OpenShift Commons?
         answer: |
@@ -23,7 +25,7 @@ seed_examples:
       Finland, Spain, Italy, and others. Usually, these meetings happen on Tuesday, Wednesday,
       or Fridays.
     questions_and_answers:
-      - question: In which regions have the in-person Gatherings taken place?
+      - question: In which regions have the in-person Commons' Gatherings taken place?
         answer: |
           North America, South America, Asia, and Europe.
       - question: Since what year have the Commons' Gatherings taken place?
@@ -84,7 +86,7 @@ seed_examples:
         answer: |
           It is a simple and brief demonstration of how to train and mature an LLM locally with InstructLab,
           test with Podman AI Lab, and then migrate the workload to OpenShift AI.
-      - question: Who is the speaker Alexon Oliveira?
+      - question: Who is Alexon Oliveira?
         answer: |
           Alexon Oliveira is a Principal Technical Account Manager (TAM) who has worked at Red Hat since 2018
           with various products, lives in Brazil, collaborates in different communities, and enjoys spending time
@@ -120,6 +122,6 @@ document_outline: |
   Red Hat OpenShift Commons' Description and Facts
 document:
   repo: https://github.com/AlexonOliveiraRH/instructlab-examples.git
-  commit: 2577d4fb034c084e22dd50a4fe2d6931fa7fc38f
+  commit: 8264c1b204eec5227f6f257ca4aedfdc88c55eea
   patterns:
-    - openshiftcommons/facts.md
+    - facts.md
