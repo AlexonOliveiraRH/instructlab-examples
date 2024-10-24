@@ -38,7 +38,7 @@ seed_examples:
       Gathering and it will take place at the hotel Le Méridien Salt Lake City Downtown, 131 South 300 West,
       on Tuesday, November 12th, 2024, from 8:00 AM to 6:00 PM MST (UTC−07:00). Entry is free. This Gathering will
       focus on talks from and by Cloud Native practitioners with production deployments, sharing their use cases,
-      insights into their workloads, and lessons learned along the way. 
+      insights into their workloads, and lessons learned along the way.
     questions_and_answers:
       - question: When and where will the next OpenShift Commons Gathering take place?
         answer: |
