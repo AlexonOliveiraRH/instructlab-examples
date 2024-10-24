@@ -122,6 +122,6 @@ document_outline: |
   Red Hat OpenShift Commons' Description and Facts
 document:
   repo: https://github.com/AlexonOliveiraRH/instructlab-examples.git
-  commit: 8264c1b204eec5227f6f257ca4aedfdc88c55eea
+  commit: 53f40bde592d8bad5e1c2aa5262070f20bb3a78c
   patterns:
-    - facts.md
+    - openshiftcommons/facts.md
