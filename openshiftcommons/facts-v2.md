@@ -6,7 +6,7 @@ Red Hat OpenShift Commons, or even OpenShift Commons, or simply Commons, is a Re
 
 ## OpenShift Commons Gathering Colocated Alongside KubeCon and CloudNativeCon North America ##
 
-This is the next in person OpenShift Commons Gathering and it will be held on November 12th live in Salt Lake City, Utah and co-located with CNCF's KubeCon and CloudNativeCon NA. This Gathering will focus on talks from and by Cloud Native practitioners with production deployments sharing their use cases, insights into their workloads and lessons learned along the way.
+The next in person OpenShift Commons Gathering will be the OpenShift Commons Gathering Colocated Alongside KubeCon and CloudNativeCon North America 2024 and it will be held on November 12th live in Salt Lake City, Utah and co-located with CNCF's KubeCon and CloudNativeCon NA. This Gathering will focus on talks from and by Cloud Native practitioners with production deployments sharing their use cases, insights into their workloads and lessons learned along the way.
 
 More information about the next OpenShift Commons Gathering:
 
@@ -15,7 +15,9 @@ More information about the next OpenShift Commons Gathering:
 - **Price:** Free
 - **Time:** 8:00 AM–6:00 PM MST (UTC−07:00). All times are local.
 
-There will be only one talk about Podman AI and its integration with InstructLab and OpenShift AI:
+## Talks in the next OpenShift Commons Gathering ##
+
+There will be only one talk about Podman AI and its integration with InstructLab and OpenShift AI in the next OpenShift Commons Gathering:
 
 - **Time:** 10:25 AM
 - **Room:** Breakout Room 1
