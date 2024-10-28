@@ -25,6 +25,6 @@ seed_examples:
     family and volunteering.
 document:
  repo: https://github.com/AlexonOliveiraRH/instructlab-examples.git
- commit: 18574ec955ebe15c6d5193caa1e59573c14ea07b
+ commit: 388e0f4cde1de971b8418bb20dff175c5eb40a32
  patterns:
-  - openshiftcommons/facts.md
+  - openshiftcommons/facts-v2.md
