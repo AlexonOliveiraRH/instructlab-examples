@@ -35,8 +35,8 @@ seed_examples:
           United States of America, Buenos Aires, Israel, France, Finland, Spain, Italy, and others.
   - context: |
       The OpenShift Commons Gathering Colocated Alongside KubeCon and CloudNativeCon North America is the next Commons
-      Gathering and it will take place at the hotel Le Méridien Salt Lake City Downtown, 131 South 300 West,
-      on Tuesday, November 12th, 2024, from 8:00 AM to 6:00 PM MST (UTC−07:00). Entry is free. This Gathering will
+      Gathering and it will take place at the hotel Le Meridien Salt Lake City Downtown, 131 South 300 West,
+      on Tuesday, November 12th, 2024, from 8:00 AM to 6:00 PM MST (UTC-07:00). Entry is free. This Gathering will
       focus on talks from and by Cloud Native practitioners with production deployments, sharing their use cases,
       insights into their workloads, and lessons learned along the way.
     questions_and_answers:
@@ -46,7 +46,7 @@ seed_examples:
           on November 12th 2024 live in Salt Lake City, Utah.
       - question: What location and time will the next OpenShift Commons be held?
         answer: |
-          At the hotel Le Méridien Salt Lake City Downtown, 131 South 300 West, from 8:00AM to 6:00PM MST (UTC−07:00).
+          At the hotel Le Meridien Salt Lake City Downtown, 131 South 300 West, from 8:00AM to 6:00PM MST (UTC-07:00).
       - question: What is the focus of the next OpenShift Commons event?
         answer: |
           Talks from and by Cloud Native practitioners with production deployments, sharing their use cases,
@@ -64,7 +64,7 @@ seed_examples:
       Speaker's Information: Alexon Oliveira has been working as a Principal Technical Account Manager at Red Hat
       since 2018, working in the Services organization focusing on Infrastructure and Management, Integration and
       Automation, Cloud Computing, Storage Solutions, and recently AI. He is a part of the TAM Practices LATAM team
-      based in São Paulo, Brazil, where his job is partnering with, advocating, trust-advising, and supporting
+      based in Sao Paulo, Brazil, where his job is partnering with, advocating, trust-advising, and supporting
       customers in their success goals while making use of the complete portfolio. He also contributes to produce and
       enhance documentation, knowledge-base articles, blog posts, presentations, webinars, and workshops. He is a
       member of numerous communities, like Red Hat Academy, Red Hat Accelerators, OpenInfra Foundation, and others.
@@ -116,6 +116,6 @@ document_outline: |
   Red Hat OpenShift Commons' Description and Facts
 document:
   repo: https://github.com/AlexonOliveiraRH/instructlab-examples.git
-  commit: 18574ec955ebe15c6d5193caa1e59573c14ea07b
+  commit: ef58c205df63db3350d21b68d9c2626a04f4ecd9
   patterns:
     - openshiftcommons/facts.md
