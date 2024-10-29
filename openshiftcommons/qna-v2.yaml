@@ -10,7 +10,7 @@ seed_examples:
  - question: What location and time will the next OpenShift Commons be held?
    answer: |
     The next OpenShift Commons Gathering will be held at the hotel
-    Le Méridien Salt Lake City Downtown, 131 South 300 West, from 8:00AM to 6:00PM MST (UTC−07:00).
+    Le Meridien Salt Lake City Downtown, 131 South 300 West, from 8:00AM to 6:00PM MST (UTC-07:00).
  - question: Will there be any Podman AI talks at the next OpenShift Commons Gathering?
    answer: |
     Yes, in the Breakout Room 1, at 10:25 AM, given by Alexon Oliveira, from Red Hat, with the title "The Art of
@@ -26,6 +26,6 @@ seed_examples:
     family and volunteering.
 document:
  repo: https://github.com/AlexonOliveiraRH/instructlab-examples.git
- commit: 87131eee42f5db8c9349da9b2e290904edadb9a7
+ commit: 35a9d8419c12eb62ac870cb4d59c1ea74a73afa8
  patterns:
   - openshiftcommons/facts-v2.md
