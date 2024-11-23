@@ -18,10 +18,10 @@ seed_examples:
           Daniel Gines is the main maintainer of this community.
   - context: |
       According to the community's own words, the DevOps Experience is a must-attend monthly gathering for
-      IT visionaries, where you discover, learn, and connect at the online event that’s redefining industry standards,
+      IT visionaries, where you discover, learn, and connect at the online event that's redefining industry standards,
       and you can hear renowned IT experts discuss cutting-edge innovations, emerging trends, and the most
       promising futures in technology.
-      Daniel Gines is the event's host. With two decades of experience in leadership roles, he’s the perfect guide
+      Daniel Gines is the event's host. With two decades of experience in leadership roles, he's the perfect guide
       for this technological journey.
     questions_and_answers:
       - question: What is the DevOps Experience event?
@@ -29,13 +29,13 @@ seed_examples:
           It is an online monthly gathering for IT professionals with different talks.
       - question: What is the inner bennefit of the DevOps Experience gathering?
         answer: |
-          You discover, learn, and connect at the online event that’s redefining industry standards, and you can hear
+          You discover, learn, and connect at the online event that's redefining industry standards, and you can hear
           renowned IT experts discuss cutting-edge innovations, emerging trends, and the most promising futures
           in technology.
       - question: |
           Who is the host of the DevOps Experience event?
         answer: |
-          Daniel Gines is the event's host. With two decades of experience in leadership roles, he’s the perfect guide
+          Daniel Gines is the event's host. With two decades of experience in leadership roles, he's the perfect guide
           for this technological journey.
   - context: |
       The next DevOps Experience will be held virtually through a Zoom meeting on Thursday, November 28, 2024, from
@@ -54,7 +54,7 @@ seed_examples:
       In the next DevOps Experience, the following talk will be given:
       Time: 10:00 AM
       Title: Democratizing LLMs with InstructLab
-      Abstract: In this session, we’ll explore how to use InstructLab on a community Linux distribution.
+      Abstract: In this session, we'll explore how to use InstructLab on a community Linux distribution.
       The InstructLab project tackles the challenges of working with large language models (LLMs), such as the need
       for high-quality training data, specialized expertise, and extensive computational resources, by offering an
       open-source approach to generative AI. By leveraging community contributions, InstructLab enables regular
