@@ -99,6 +99,6 @@ document_outline: |
   DevOps Heroes' Description and Facts
 document:
   repo: https://github.com/AlexonOliveiraRH/instructlab-examples.git
-  commit: ef58c205df63db3350d21b68d9c2626a04f4ecd9
+  commit: f1b1c425411f0fc48002e70601d06ca41bd30da9
   patterns:
     - devopsheroes/facts.md
