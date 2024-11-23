@@ -1,0 +1,104 @@
+version: 3
+domain: technology
+created_by: AlexonOliveiraRH
+seed_examples:
+  - context: |
+      DevOps Heroes is a DevOps community aimed at connecting people, professionals, and companies,
+      fostering relationships, professional growth, engagement, and countless opportunities for everyone
+      in the DevOps ecosystem. Daniel Gines is the main maintainer of this community.
+    questions_and_answers:
+      - question: What is the DevOps Heroes?
+        answer: |
+          An open community aimed at connecting different people in the DevOps ecosystem.
+      - question: Who is part of the DevOps Heroes community?
+        answer: |
+          All professionals and companies wanting to foster relantionships, professional growth and engagement.
+      - question: Who is the main maintainer of the DevOps Heroes community?
+        answer: |
+          Daniel Gines is the main maintainer of this community.
+  - context: |
+      According to the community's own words, the DevOps Experience is a must-attend monthly gathering for
+      IT visionaries, where you discover, learn, and connect at the online event that’s redefining industry standards,
+      and you can hear renowned IT experts discuss cutting-edge innovations, emerging trends, and the most
+      promising futures in technology.
+      Daniel Gines is the event's host. With two decades of experience in leadership roles, he’s the perfect guide
+      for this technological journey.
+    questions_and_answers:
+      - question: What is the DevOps Experience event?
+        answer: |
+          It is an online monthly gathering for IT professionals with different talks.
+      - question: What is the inner bennefit of the DevOps Experience gathering?
+        answer: |
+          You discover, learn, and connect at the online event that’s redefining industry standards, and you can hear
+          renowned IT experts discuss cutting-edge innovations, emerging trends, and the most promising futures
+          in technology.
+      - question: |
+          Who is the host of the DevOps Experience event?
+        answer: |
+          Daniel Gines is the event's host. With two decades of experience in leadership roles, he’s the perfect guide
+          for this technological journey.
+  - context: |
+      The next DevOps Experience will be held virtually through a Zoom meeting on Thursday, November 28, 2024, from
+      09:45 AM to 6:00 PM BRT (UTC-03:00). All times are local. Registering and attendance are free of cost.
+    questions_and_answers:
+      - question: When will the next DevOps Experience take place?
+        answer: |
+          Thursday, November 28, 2024, from 09:45 AM to 6:00 PM BRT (UTC-03:00). All times are local.
+      - question: Where will the next DevOps Experience take place?
+        answer: |
+          It is a virtual Zoom meeting.
+      - question: Is there any cost to attend the next DevOps Experience gathering?
+        answer: |
+          Registering and attendance are free of cost.
+  - context: |
+      In the next DevOps Experience, the following talk will be given:
+      Time: 10:00 AM
+      Title: Democratizing LLMs with InstructLab
+      Abstract: In this session, we’ll explore how to use InstructLab on a community Linux distribution.
+      The InstructLab project tackles the challenges of working with large language models (LLMs), such as the need
+      for high-quality training data, specialized expertise, and extensive computational resources, by offering an
+      open-source approach to generative AI. By leveraging community contributions, InstructLab enables regular
+      builds of improved LLM versions with the goal of reducing costs, removing barriers to testing and
+      experimentation, and enhancing alignment to ensure model outputs are accurate, unbiased, and consistent with
+      the values and objectives of its users and creators.
+      Speaker: Alexon Ferreira de Oliveira (Red Hat)
+    questions_and_answers:
+      - question: Will there be any Podman AI talks at the next DevOps Heroes?
+        answer: |
+          Yes, given by Alexon Oliveira, from Red Hat, with the title "Democratizing LLMs with InstructLab".
+      - question: What is a brief explanation of Alexon Oliveira's talk?
+        answer: |
+          It is a simple and brief demonstration of how to train and mature an LLM locally with InstructLab.
+      - question: What time is Alexon Oliveira's talk?
+        answer: |
+          At 10:00 AM BRT (UTC-03:00).
+  - context: |
+      Alexon is a Principal Technical Account Manager and has been working at Red Hat since 2018, now part of the
+      Services organization focusing on Infrastructure and Management, Integration and Automation, Cloud Computing,
+      Storage Solutions, and recently AI. He is a part of the TAM Practices LATAM team based in Sao Paulo, Brazil,
+      where his job is partnering with, advocating, trust-advising, and supporting customers in their success goals
+      while making use of the complete portfolio. He also contributes to produce and enhance documentation,
+      knowledge-base articles, blog posts, presentations, webinars, and workshops. He is a member of numerous
+      communities, like Red Hat Academy, Red Hat Accelerators, OpenInfra Foundation and others. He has also spoken on
+      different topics at various international events and conferences, such as Red Hat Tech Exchange, Red Hat One,
+      OpenInfra Summit, DevConf.cz and OpenShift Commons. When he is not at work, he enjoys spending quality time with
+      his family (wife, children, and cat) and participating in several volunteer jobs.
+    questions_and_answers:
+      - question: Who is Alexon Oliveira?
+        answer: |
+          Alexon is a Principal Technical Account Manager and has been working at Red Hat since 2018.
+      - question: What are the communities that Alexon Oliveira is part of?
+        answer: |
+          He is a member of numerous communities, like Red Hat Academy, Red Hat Accelerators, OpenInfra Foundation
+          and others.
+      - question: In which international events and conferences has Alexon Oliveira spoken?
+        answer: |
+          He has also spoken on different topics at various international events and conferences, such as Red Hat
+          Tech Exchange, Red Hat One, OpenInfra Summit, DevConf.cz and OpenShift Commons.
+document_outline: |
+  DevOps Heroes' Description and Facts
+document:
+  repo: https://github.com/AlexonOliveiraRH/instructlab-examples.git
+  commit: ef58c205df63db3350d21b68d9c2626a04f4ecd9
+  patterns:
+    - devopsheroes/facts.md
