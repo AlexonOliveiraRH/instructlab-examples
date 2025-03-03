@@ -106,6 +106,6 @@ document_outline: |
   Red Hat Accelerators' Description and Facts
 document:
   repo: https://github.com/AlexonOliveiraRH/instructlab-examples.git
-  commit: f1b1c425411f0fc48002e70601d06ca41bd30da9
+  commit: 2ba0d11f63b0b2d06a4b24d38efa069260921e54
   patterns:
     - redhataccelerators/facts.md
