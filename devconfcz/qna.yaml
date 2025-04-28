@@ -129,6 +129,6 @@ document_outline: |
   DevConf.cz's Description and Facts
 document:
   repo: https://github.com/AlexonOliveiraRH/instructlab-examples.git
-  commit: 
+  commit: ee45f807dc51004076b3d102012b30b0dd3ad7d1
   patterns:
     - devconfcz/facts.md
