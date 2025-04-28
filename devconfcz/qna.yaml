@@ -84,7 +84,7 @@ seed_examples:
       There will be only one talk about Podman AI and its integration with InstructLab and OpenShift AI:
         - **Time:** June 13th, 02:00 PM CEST (GMT+2)
         - **Local:** Room D105 (capacity 300 people)
-        - **Title:** From InstructLab and Podman AI Lab to OpenShift AI: A demo for simplifying LLM workflows 
+        - **Title:** From InstructLab and Podman AI Lab to OpenShift AI: A demo for simplifying LLM workflows
         - **Abstract:** In this session, it will be demonstrated a streamlined method for setting up a home lab to
         develop and test Large Language Models (LLMs) using Podman AI Lab. The process begins with deploying and
         refining LLMs locally on a developer's workstation using InstructLab. Once these models are matured, it will be
