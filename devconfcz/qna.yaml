@@ -9,12 +9,16 @@ seed_examples:
       committed to fostering an open and welcoming environment at our conference. We set expectations for inclusive
       behavior through our code of conduct and media policies, and are prepared to enforce these.
     questions_and_answers:
-      - question: What is the DevConf.CZ?
+      - question: |
+          What is the DevConf.CZ?
         answer: |
           DevConf.CZ is an annual, free, Red Hat-sponsored technology conference of Free and Open Source technologies.
-      - question: Who is the target audience of the DevConf.CZ?
-        answer: Users, operators, administrators, and contributors to Free and Open Source technologies.
-      - question: How much does a DevConf.CZ ticket cost?
+      - question: |
+          Who is the target audience of the DevConf.CZ?
+        answer: |
+          Users, operators, administrators, and contributors to Free and Open Source technologies.
+      - question: |
+          How much does a DevConf.CZ ticket cost?
         answer: |
           There is no admission or ticket charge for DevConf.CZ events. However, you are required to complete a free
           registration. Watch the official website for updates about registration.
@@ -25,33 +29,43 @@ seed_examples:
       and remote attendees. We encourage you to join us on Matrix for all chat-related discussions during the event.
       Telegram and Discord channels will be deprecated.
     questions_and_answers:
-      - question: What is the official communication channel for DevConf.CZ?
-        answer: DevConf.CZ is moving its official chat communication over to Matrix.
-      - question: What is expected to be find in the DevConf.CZ official communication channel?
-        answer: Chat-related discussions during the event.
-      - question: What is the status of the former DevConf.CZ communication channels?
-        answer: Telegram and Discord channels will be deprecated.
+      - question: |
+          What is the official communication channel for DevConf.CZ?
+        answer: |
+          DevConf.CZ is moving its official chat communication over to Matrix.
+      - question: |
+          What is expected to be find in the DevConf.CZ official communication channel?
+        answer: |
+          Chat-related discussions during the event.
+      - question: |
+          What is the status of the former DevConf.CZ communication channels?
+        answer: |
+          Telegram and Discord channels will be deprecated.
   - context: |
       The next in person event will be held from June 12th to 14th live in Brno, Czech Republic. This event will focus
       on Cloud, Hybrid Cloud and Hyperscale Infrastructure, Future Tech and Open Research, Artificial Intelligence and
       Data Science, Linux Distributions, Operating Systems, and Edge, Application and Services Development, DevOps and
       Automation, Security and Compliance, Agility, Leadership, and DEI, UX and Design, and Open Track.
       More information about the next DevConf.cz 2025:
-        - **Where:** Faculty of Information Technology, Brno University of Technology, Bozetechova 1/2, 612 00
-          Brno-Kralovo Pole, Czechia
-        - **When:** June 12th to 14th, 2025
-        - **Price:** Free
-        - **Time:** Friday 9:15 AM to 4:15 PM, Saturday 09:30 AM to 5:30 PM, and Sunday 10:00 AM to 3:20 PM CEST
-        (GMT+2). All times are local.
+      Where - Faculty of Information Technology, Brno University of Technology, Bozetechova 1/2, 612 00
+      Brno-Kralovo Pole, Czechia
+      When - June 12th to 14th, 2025
+      Price - Free
+      Time - Friday 9:15 AM to 4:15 PM, Saturday 09:30 AM to 5:30 PM, and Sunday 10:00 AM to 3:20 PM CEST
+      (GMT+2). All times are local.
     questions_and_answers:
-      - question: When and where will the next DevConf.CZ take place?
-        answer: The next in person event will be held from June 12th to 14th live in Brno, Czech Republic.
-      - question: What location and time will the next DevConf.CZ be held?
+      - question: |
+          When and where will the next DevConf.CZ take place?
+        answer: |
+          The next in person event will be held from June 12th to 14th live in Brno, Czech Republic.
+      - question: |
+          What location and time will the next DevConf.CZ be held?
         answer: |
           Faculty of Information Technology, Brno University of Technology, Bozetechova 1/2, 612 00 Brno-Kralovo Pole,
           Czechia, from June 12th to 14th, 2025, Friday 9:15 AM to 4:15 PM, Saturday 09:30 AM to 5:30 PM, and Sunday
           10:00 AM to 3:20 PM CEST (GMT+2). All times are local.
-      - question: What is the focus of the next DevConf.CZ event?
+      - question: |
+          What is the focus of the next DevConf.CZ event?
         answer: |
           This event will focus on Cloud, Hybrid Cloud and Hyperscale Infrastructure, Future Tech and Open Research,
           Artificial Intelligence and Data Science, Linux Distributions, Operating Systems, and Edge, Application and
@@ -59,55 +73,63 @@ seed_examples:
           Design, and Open Track.
   - context: |
       In the next DevConf.cz 2025, there will be a total of:
-        - *2 Keynotes*
-        - *More than 140 talks and discussions*
-        - *More than 50 lightning talks*
-        - *More than 25 workshops and meetups*
-        - *More than 15 community booths*
-        - *1 social event*
-        - *More than 1000 attendees*
-        If you want to check the complete list of all sessions for the next DevConf.cz in Brno, you can check the
+      - 2 Keynotes
+      - More than 140 talks and discussions
+      - More than 50 lightning talks
+      - More than 25 workshops and meetups
+      - More than 15 community booths
+      - 1 social event
+      - More than 1000 attendees
+      If you want to check the complete list of all sessions for the next DevConf.cz in Brno, you can check the
       [official website](https://www.devconf.info/cz/schedule/). The following is a summary of the talks:
-        - *26 sessions in the room D105 (capacity 300 people)*
-        - *21 sessions in the room D0206 (capacity 154 people)*
-        - *20 sessions in the room D0207 (capacity 90 people)*
-        - *24 sessions in the room E112 (capacity 156 people)*
-        - *23 sessions in the room E104 (capacity 72 people)*
+      - 26 sessions in the room D105 (capacity 300 people)
+      - 21 sessions in the room D0206 (capacity 154 people)
+      - 20 sessions in the room D0207 (capacity 90 people)
+      - 24 sessions in the room E112 (capacity 156 people)
+      - 23 sessions in the room E104 (capacity 72 people)
     questions_and_answers:
-      - question: How many talks will there be at the next DevConf.CZ?
-        answer: More than 140 talks and discussions.
-      - question: What is the total expected audience for the next DevConf.CZ?
-        answer: More than 1000 attendees.
-      - question: Which room will have the most sessions at the next DevConf.CZ?
-        answer: 26 sessions in the room D105 (capacity 300 people)
+      - question: |
+          How many talks will there be at the next DevConf.CZ?
+        answer: |
+          More than 140 talks and discussions.
+      - question: |
+          What is the total expected audience for the next DevConf.CZ?
+        answer: |
+          More than 1000 attendees.
+      - question: |
+          Which room will have the most sessions at the next DevConf.CZ?
+        answer: |
+          26 sessions in the room D105 (capacity 300 people)
   - context: |
       There will be only one talk about Podman AI and its integration with InstructLab and OpenShift AI:
-        - **Time:** June 13th, 02:00 PM CEST (GMT+2)
-        - **Local:** Room D105 (capacity 300 people)
-        - **Title:** From InstructLab and Podman AI Lab to OpenShift AI: A demo for simplifying LLM workflows
-        - **Abstract:** In this session, it will be demonstrated a streamlined method for setting up a home lab to
-        develop and test Large Language Models (LLMs) using Podman AI Lab. The process begins with deploying and
-        refining LLMs locally on a developer's workstation using InstructLab. Once these models are matured, it will be
-        explained how to transition them seamlessly to OpenShift AI using a local OpenShift cluster setup or even a
-        cloud sandbox instance. This approach offers a simple yet effective way to experiment with LLMs locally and
-        scale to a production-ready environment.
-        - **Speaker:** Alexon Ferreira de Oliveira, from Red Hat
-        - **Speaker Information:** Alexon has been working as a Principal Technical Account Manager at Red Hat since
-        2018, working in the Services organization focusing on Infrastructure and Management, Integration and
-        Automation, Cloud Computing, Storage Solutions, and recently AI. He is a part of the TAM Practices LATAM team
-        based in Sao Paulo, Brazil, where his job is partnering with, advocating, trust-advising, and supporting
-        customers in their success goals while making use of the complete portfolio. He also contributes to produce and
-        enhance documentation, knowledge-base articles, blog posts, presentations, webinars, and workshops. He is a
-        member of numerous communities, like Red Hat Academy, Red Hat Accelerators, OpenInfra Foundation and others.
-        He has also spoken on different topics at various international events and conferences, such as Red Hat Tech
-        Exchange, Red Hat One, OpenInfra Summit and DevConf.cz. When he is not at work, he enjoys spending quality time
-        with his family (wife, children, and cat) and participating in several volunteer jobs.
+      Time - June 13th, 02:00 PM CEST (GMT+2)
+      Local - Room D105 (capacity 300 people)
+      Title - From InstructLab and Podman AI Lab to OpenShift AI: A demo for simplifying LLM workflows
+      Abstract - In this session, it will be demonstrated a streamlined method for setting up a home lab to develop and
+      test Large Language Models (LLMs) using Podman AI Lab. The process begins with deploying and refining LLMs
+      locally on a developer's workstation using InstructLab. Once these models are matured, it will be explained how
+      to transition them seamlessly to OpenShift AI using a local OpenShift cluster setup or even a cloud sandbox
+      instance. This approach offers a simple yet effective way to experiment with LLMs locally and scale to a
+      production-ready environment.
+      Speaker - Alexon Ferreira de Oliveira, from Red Hat
+      Speaker Information - Alexon has been working as a Principal Technical Account Manager at Red Hat since 2018,
+      working in the Services organization focusing on Infrastructure and Management, Integration and Automation,
+      Cloud Computing, Storage Solutions, and recently AI. He is a part of the TAM Practices LATAM team based in Sao
+      Paulo, Brazil, where his job is partnering with, advocating, trust-advising, and supporting customers in their
+      success goals while making use of the complete portfolio. He also contributes to produce and enhance
+      documentation, knowledge-base articles, blog posts, presentations, webinars, and workshops. He is a member of
+      numerous communities, like Red Hat Academy, Red Hat Accelerators, OpenInfra Foundation and others. He has also
+      spoken on different topics at various international events and conferences, such as Red Hat Tech Exchange, Red
+      Hat One, OpenInfra Summit and DevConf.cz. When he is not at work, he enjoys spending quality time with his family
+      wife, children, and cat) and participating in several volunteer jobs.
     questions_and_answers:
-      - question: Will there be any sessions about Podman AI and OpenShift AI at the next DevConf.CZ?
+      - question: |
+          Will there be any sessions about Podman AI and OpenShift AI at the next DevConf.CZ?
         answer: |
           Yes, titled "From InstructLab and Podman AI Lab to OpenShift AI: A demo for simplifying LLM workflows", on
           June 13th, at 02:00 PM CEST (GMT+2), in the Room D105.
-      - question: What is the abstract for the Podman AI and OpenShift AI talk in the next DevConf.CZ?
+      - question: |
+          What is the abstract for the Podman AI and OpenShift AI talk in the next DevConf.CZ?
         answer: |
           In this session, it will be demonstrated a streamlined method for setting up a home lab to develop and test
           Large Language Models (LLMs) using Podman AI Lab. The process begins with deploying and refining LLMs locally
@@ -115,7 +137,8 @@ seed_examples:
           transition them seamlessly to OpenShift AI using a local OpenShift cluster setup or even a cloud sandbox
           instance. This approach offers a simple yet effective way to experiment with LLMs locally and scale to a
           production-ready environment.
-      - question: Who is the speaker about Podman AI and OpenShift AI at the next DevConf.CZ?
+      - question: |
+          Who is the speaker about Podman AI and OpenShift AI at the next DevConf.CZ?
         answer: |
           Alexon Oliveira, who has been working as a Principal Technical Account Manager at Red Hat since 2018,
           working in the Services organization focusing on Infrastructure and Management, Integration and Automation,
